@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ruchitha 👋
 
-<!--
-**ruchitha-nandikonda/ruchitha-nandikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Java Developer** with 3 years of experience designing and deploying secure, scalable enterprise applications using **Java, Spring Boot, React.js, and AWS**.
 
-Here are some ideas to get you started:
+💼 **Experience**
+- **Berkshire Hathaway (USA):** Re-architected legacy systems into cloud-native apps using Spring Boot, React.js, Docker, and Kubernetes.
+- **Experion Technologies:** Built microservices using Spring Boot and PostgreSQL, improving system uptime by 30%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**
+- Master’s in *Computer Information Systems*, Colorado State University
+
+🧩 **Tech Stack**
+Java | Spring Boot | React.js | AWS | Docker | Kubernetes | Jenkins | Terraform | PostgreSQL | MySQL
+
+📫 **Email:** ruchithajobit@gmail.com  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ruchitha-nandikonda/](https://www.linkedin.com/in/ruchitha-nandikonda/)
+
+---
+
+### 🌱 Current Focus
+- Building sample full-stack apps using Spring Boot and React  
+- Exploring AWS deployments and CI/CD with Jenkins and Docker  
+- Learning advanced cloud automation with Terraform
