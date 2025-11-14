@@ -18,6 +18,6 @@ Java | Spring Boot | React.js | AWS | Docker | Kubernetes | Jenkins | Terraform 
 ---
 
 ### 🌱 Current Focus
-- Building sample full-stack apps using Spring Boot and React  
+- Building full-stack apps using Spring Boot and React  
 - Exploring AWS deployments and CI/CD with Jenkins and Docker  
 - Learning advanced cloud automation with Terraform
